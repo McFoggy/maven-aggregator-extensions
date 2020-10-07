@@ -1,0 +1,6 @@
+modelVersion: 4.0.0
+groupId: fr.brouillard.oss.aggregator
+artifactId: prj2
+version: 0.0.2-SNAPSHOT
+name: prj2
+packaging: pom
